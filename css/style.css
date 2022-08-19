@@ -77,6 +77,11 @@ button {
     margin-top: -5px;
 }
 
+button:hover {
+    background: rgba(185, 185, 185, 0.89);
+    cursor: pointer;
+}
+
 .btn-conta {
     border-radius: 50px;
     border: 1px solid #FE0000;
